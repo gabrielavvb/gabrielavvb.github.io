@@ -1,0 +1,1 @@
+import{_ as a,a as t}from"./ProgressScroll.06321065.js";import{u as c,B as m,o as _,c as l,b as e,I as p,F as i}from"./entry.b876faf3.js";const g={__name:"preview",setup(u){return c({link:[{rel:"stylesheet",href:"/assets/css/preview.css"}]}),(o,f)=>{const s=m("CommonLoadingScreen"),n=a,r=t;return _(),l(i,null,[e(s),e(n),e(r),p(o.$slots,"default")],64)}}};export{g as default};
