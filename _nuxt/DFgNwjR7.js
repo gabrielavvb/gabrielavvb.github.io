@@ -1,0 +1,1 @@
+import{_ as t,a}from"./DZFA8UcD.js";import{u as m}from"./71BzIEAk.js";import{c,b as e,M as _,F as l,A as p,o as i}from"./CS3zScg8.js";const S={__name:"preview",setup(f){return m({link:[{rel:"stylesheet",href:"/assets/css/preview.css"}]}),(o,u)=>{const s=p("CommonLoadingScreen"),n=t,r=a;return i(),c(l,null,[e(s),e(n),e(r),_(o.$slots,"default")],64)}}};export{S as default};
